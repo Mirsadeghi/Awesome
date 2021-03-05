@@ -14,7 +14,7 @@ Cloud Removal in Satellite Images Using Spatiotemporal Generative Networks [pape
 xView Dataset [link](http://xviewdataset.org/#dataset)\
 Efficient Object Detection in Large Images with Deep Reinforcement Learning [paper]() - [code](https://github.com/ermongroup/EfficientObjectDetection)\
 Learning to Interpret Satellite Images in Global Scale Using Wikipedia [paper](https://arxiv.org/pdf/1905.02506.pdf)\
-PatchDrop - Learning When and Where to Zoom With Deep Reinforcement Learning [code](https://github.com/ermongroup/PatchDrop)\
+PatchDrop - Learning When and Where to Zoom With Deep Reinforcement Learning [code](https://github.com/ermongroup/PatchDrop)
 
 
 
