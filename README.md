@@ -9,10 +9,10 @@ Additive-Margin-Softmax-Loss-Pytorch [link](https://github.com/Leethony/Additive
 U-Net GAN PyTorch [link](https://github.com/boschresearch/unetgan)\
 A-NICE-MC: Adversarial Training for MCMC [paper](https://arxiv.org/pdf/1706.07561.pdf) [code](https://github.com/ermongroup/a-nice-mc)\
 
-Projects:
-Cloud Removal in Satellite Images Using Spatiotemporal Generative Networks [paper link](https://arxiv.org/pdf/1912.06838.pdf) [repo](https://github.com/ermongroup/STGAN)\
+# Projects:
+Cloud Removal in Satellite Images Using Spatiotemporal Generative Networks [paper](https://arxiv.org/pdf/1912.06838.pdf) - [code](https://github.com/ermongroup/STGAN)\
 xView Dataset [link](http://xviewdataset.org/#dataset)\
-Efficient Object Detection in Large Images with Deep Reinforcement Learning [paper]() [code](https://github.com/ermongroup/EfficientObjectDetection)\
+Efficient Object Detection in Large Images with Deep Reinforcement Learning [paper]() - [code](https://github.com/ermongroup/EfficientObjectDetection)\
 Learning to Interpret Satellite Images in Global Scale Using Wikipedia [paper](https://arxiv.org/pdf/1905.02506.pdf)\
 PatchDrop - Learning When and Where to Zoom With Deep Reinforcement Learning [code](https://github.com/ermongroup/PatchDrop)\
 
