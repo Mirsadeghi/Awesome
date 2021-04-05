@@ -8,7 +8,8 @@ Face recognition through Kolmogorov complexity [link](https://medium.com/@zliu19
 Additive-Margin-Softmax-Loss-Pytorch [link](https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch)\
 U-Net GAN PyTorch [link](https://github.com/boschresearch/unetgan)\
 A-NICE-MC: Adversarial Training for MCMC [paper](https://arxiv.org/pdf/1706.07561.pdf) - [code](https://github.com/ermongroup/a-nice-mc)
-
+LoFTR: Detector-Free Local Feature Matching with Transformers [code](https://github.com/zju3dv/LoFTR)
+CvT: Introducing Convolutions to Vision Transformers [paper](https://arxiv.org/pdf/2103.15808v1.pdf)
 # Projects:
 Cloud Removal in Satellite Images Using Spatiotemporal Generative Networks [paper](https://arxiv.org/pdf/1912.06838.pdf) - [code](https://github.com/ermongroup/STGAN)\
 xView Dataset [link](http://xviewdataset.org/#dataset)\
