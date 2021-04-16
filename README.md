@@ -15,7 +15,7 @@ SiT: Self-supervised vIsion Transformer [paper](https://arxiv.org/pdf/2104.03602
 Self-supervised Learning: Generative or Contrastive [paper](https://arxiv.org/pdf/2006.08218.pdf)\
 Semantic Image Inpainting with Deep Generative Models [paper](https://arxiv.org/pdf/1607.07539.pdf)\
 TFill: Image Completion via a Transformer-Based Architecture [paper](https://arxiv.org/pdf/2104.00845.pdf)\
-The math behind GANs (Generative Adversarial Networks) [link](https://towardsdatascience.com/the-math-behind-gans-generative-adversarial-networks-3828f3469d9c)\
+The math behind GANs (Generative Adversarial Networks) [link](https://towardsdatascience.com/the-math-behind-gans-generative-adversarial-networks-3828f3469d9c)-[link](https://openai.com/blog/generative-models/)\
 SynSin: End-to-end View Synthesis from a Single Image (CVPR 2020) [link](https://github.com/facebookresearch/synsin)
 
 # Projects:
