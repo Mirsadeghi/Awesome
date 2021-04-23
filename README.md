@@ -17,7 +17,7 @@ Semantic Image Inpainting with Deep Generative Models [paper](https://arxiv.org/
 TFill: Image Completion via a Transformer-Based Architecture [paper](https://arxiv.org/pdf/2104.00845.pdf)\
 The math behind GANs (Generative Adversarial Networks) [link](https://towardsdatascience.com/the-math-behind-gans-generative-adversarial-networks-3828f3469d9c)-[link](https://openai.com/blog/generative-models/)\
 SynSin: End-to-end View Synthesis from a Single Image (CVPR 2020) [link](https://github.com/facebookresearch/synsin)\
-Undrestanding Contrastive learning [link](https://generallyintelligent.ai/understanding-self-supervised-contrastive-learning.html)
+Undrestanding Contrastive learning [link](https://generallyintelligent.ai/understanding-self-supervised-contrastive-learning.html) [link](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 # Projects:
 Cloud Removal in Satellite Images Using Spatiotemporal Generative Networks [paper](https://arxiv.org/pdf/1912.06838.pdf) - [code](https://github.com/ermongroup/STGAN)\
 xView Dataset [link](http://xviewdataset.org/#dataset)\
