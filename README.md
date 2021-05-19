@@ -25,5 +25,6 @@ Efficient Object Detection in Large Images with Deep Reinforcement Learning [pap
 Learning to Interpret Satellite Images in Global Scale Using Wikipedia [paper](https://arxiv.org/pdf/1905.02506.pdf)\
 PatchDrop - Learning When and Where to Zoom With Deep Reinforcement Learning [code](https://github.com/ermongroup/PatchDrop)\
 
-
+#sites:
+mathcha [link](https://www.mathcha.io/) \
 
